@@ -1,0 +1,1 @@
+This data set is from: [Database Group Leipzig: Benchmark Datasets for Entity Resolution](http://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution).
